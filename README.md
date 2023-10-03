@@ -1,4 +1,5 @@
-![MERN-Stack-blue](https://github.com/kunalsah1/MERN-stack/assets/136319562/7c810a91-0834-476c-b16e-df6cb10b0753)# MERN-stack
+![MERN-Stack-blue](https://github.com/kunalsah1/MERN-stack/assets/136319562/7c810a91-0834-476c-b16e-df6cb10b0753)
+# MERN-stack
 
 
 # Employee Data Management Web Application
